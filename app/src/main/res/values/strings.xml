@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab7_home</string>
+
+    <array name="group">
+        <item>Admin</item>
+        <item>User</item>
+        <item>Guest</item>
+    </array>
+
+</resources>
